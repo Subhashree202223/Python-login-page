@@ -29,3 +29,8 @@ def login():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+#socket i/o - data uploading progress display
+#rest api - req res
+#restful api  - uses
+#send json data - datatype, 
